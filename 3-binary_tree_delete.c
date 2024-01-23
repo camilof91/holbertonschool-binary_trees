@@ -1,6 +1,10 @@
 #include "binary_trees.h" 
 
-
+/**
+*binary_tree_delete: runs through the tree and removes it from the leaves
+*@tree: its a pointer whit structur of binary tree
+*return: do not have a return
+*/ 
 void binary_tree_delete(binary_tree_t *tree)
 {
 	if(tree == NULL)
