@@ -2,7 +2,7 @@
 
 /**
 *binary_tree_is_root- this function check is the node is a root
-*@node: 
+*@node: this is a pointer to node
 *return: 1  id the node is root or 0 if the node isn't
 */
 
