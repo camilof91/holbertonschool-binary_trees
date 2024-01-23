@@ -1,7 +1,8 @@
-#include "binary_trees.h"
+ "binary_trees.h"
 
 /**
-*binary_tree_delete: runs through the tree and removes it from the leaves
+*
+*binary_tree_delete - runs through the tree and removes it from the leaves
 *@tree: its a pointer whit structur of binary tree
 *
 */
