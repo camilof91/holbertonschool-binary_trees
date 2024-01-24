@@ -5,7 +5,8 @@
  * @tree: Pointer to the root of the tree to be deleted
  *
  * Description:
- * - Recursively traverses the tree and deletes each node, starting from the leaves.
+ * - Recursively traverses the tree and 
+ * deletes each node, starting from the leaves.
  * - Frees the memory allocated for each node.
  *
  * @tree: Pointer to the root of the binary tree.
